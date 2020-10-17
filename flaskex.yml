@@ -5,9 +5,9 @@
     import_role:
       name: ansible-role-packages
   
-  - name: Inystall python
+  - name: Inystall python3
     import_role:
-      name: ansible-role-python 
+      name: ansible-role-python3 
   
   - name: Git clone
     shell: 'cd /tmp && git clone https://github.com/anfederico/Flaskex'
