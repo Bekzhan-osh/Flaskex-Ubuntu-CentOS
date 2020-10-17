@@ -1,0 +1,12 @@
+---  
+- name: Install vim | Debian
+  package:
+    name:
+      - vim
+      - wget
+      - git 
+      - unzip
+    state: latest  
+
+ 
+

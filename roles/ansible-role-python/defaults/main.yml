@@ -1,0 +1,5 @@
+---
+python3_app_debian_package: python3
+python3_app_el_package: python3
+python3_pip3_debian_package: python3-pip
+python3_desired_state: present

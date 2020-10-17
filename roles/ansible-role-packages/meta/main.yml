@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Bekzhan Kamalov
+  description: A simple role which updates hostname
+  company: Archer
+  license: MIT
+  min_ansible_version: 1.4
+  galaxy_tags:
+    - vim
+    - wget
+    - git
+    - unzip
+dependencies: []
